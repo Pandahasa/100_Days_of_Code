@@ -9,8 +9,9 @@ STOCK_API_KEY = "7CWG6ENFC1BY40KW"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 NEWS_API_KEY = "86e7c942ab33437d9d217bacdba35cbf"
 
-ACCOUNT_SID = "AC438abcd526184fcc2c81c8dc4602c7d9"
-AUTH_CODE = "114da08405b77f462116da33882ed0a8"
+# Add information when running code
+ACCOUNT_SID = ""
+AUTH_CODE = ""
 
     ## STEP 1: Use https://www.alphavantage.co/documentation/#daily
 # When stock price increase/decreases by 5% between yesterday and the day before yesterday then print("Get News").
